@@ -5,6 +5,10 @@ public class TestArray {
         arr[1] = "Krishna";
 
         sample(arr);
+        int count=1;
+        System.out.println("Count :"+count++);
+        System.out.println("Count :"+count++);
+        System.out.println("Count :"+count++);
     }
 
     public static void sample(String... args){
