@@ -16,5 +16,11 @@ public class StringDuplicate {
             hm.put(arr1,n);
         }
         System.out.println(hm);
+
+        try{
+            System.out.println();
+        }finally {
+            System.out.println();
+        }
     }
 }
